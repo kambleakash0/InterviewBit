@@ -23,8 +23,9 @@ Explanation:
     It takes 1 step to move from (0, 0) to (1, 1).
     It takes one more step to move from (1, 1) to (1, 2).
 
-################################################################################
 */
+
+################################################################################
 
 int Solution::coverPoints(vector<int> &A, vector<int> &B) {
     int count = 0;
